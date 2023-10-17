@@ -14,6 +14,13 @@
     "text": "Source: Data Integration\n\nCompare Azure Synapse Analytics to Azure Databricks\nAzure Synapse Analytics and Azure Databricks offer different capabilities which may be combined if required.\n\n\n\n\n\n\n\n\nCapabilities\nAzure Synapse Analytics\nAzure Databricks\n\n\n\n\nMachine Learning.\n- Built-in support for Azure Machine Learning.\n- Optimized runtimes with support for TensorFlow, PyTorch, and Keras.- GPU support.\n\n\nFeature Set.\n- Distributed T-SQL system.- Spark environment.- Data Integration.- Unified experience with Synapse Studio.\n- Optimized Apache Spark environment.\n\n\nReporting.\n- PowerBI available directly from Azure Synapse Studio.\n- Azure Databricks connection available in PowerBI."
   },
   {
+    "objectID": "topics/just-in-time-inventory.html",
+    "href": "topics/just-in-time-inventory.html",
+    "title": "Just-in-Time Inventory",
+    "section": "",
+    "text": "Source: Data Integration\n\nJust-in-Time Inventory\n\n\n\nJust-in-Time Inventory"
+  },
+  {
     "objectID": "topics/azure-synapse-analytics.html",
     "href": "topics/azure-synapse-analytics.html",
     "title": "Azure Synapse Analytics",
