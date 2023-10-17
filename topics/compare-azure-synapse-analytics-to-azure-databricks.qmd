@@ -1,0 +1,15 @@
+---
+title: "Compare Azure Synapse Analytics to Azure Databricks"
+css: ../styles.css
+---
+
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Compare Azure Synapse Analytics to Azure Databricks
+Azure Synapse Analytics and Azure Databricks offer different capabilities which may be combined if required.
+
+|Capabilities|Azure Synapse Analytics|Azure Databricks|
+|--|--|--|
+|Machine Learning.|- Built-in support for Azure Machine Learning.|- Optimized runtimes with support for TensorFlow, PyTorch, and Keras.<br/>- GPU support.|
+|Feature Set.|- Distributed T-SQL system.<br/>- Spark environment.<br/>- Data Integration.<br/>- Unified experience with Synapse Studio.|- Optimized Apache Spark environment.|
+|Reporting.|- PowerBI available directly from Azure Synapse Studio.|- Azure Databricks connection available in PowerBI.|
