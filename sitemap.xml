@@ -2,30 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/about.html</loc>
-    <lastmod>2023-10-17T08:01:59.098Z</lastmod>
+    <lastmod>2023-10-17T08:02:19.400Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics.html</loc>
-    <lastmod>2023-10-17T08:01:58.530Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/identity-protection.html</loc>
-    <lastmod>2023-10-17T08:01:57.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/privileged-identity-management.html</loc>
-    <lastmod>2023-10-17T08:01:56.005Z</lastmod>
+    <lastmod>2023-10-17T08:02:18.800Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/data-driven-workflows.html</loc>
-    <lastmod>2023-10-17T08:01:57.658Z</lastmod>
+    <lastmod>2023-10-17T08:02:18.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/privileged-identity-management.html</loc>
+    <lastmod>2023-10-17T08:02:17.531Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/SUMMARY.html</loc>
-    <lastmod>2023-10-17T08:01:58.246Z</lastmod>
+    <lastmod>2023-10-17T08:02:18.504Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/index.html</loc>
-    <lastmod>2023-10-17T08:01:58.822Z</lastmod>
+    <lastmod>2023-10-17T08:02:19.108Z</lastmod>
   </url>
 </urlset>
