@@ -36,6 +36,8 @@ website:
         - topics/azure-stream-analytics.qmd
         - text: "---"
         - topics/when-to-use-hot-warm-cold-data-path.qmd
+        - text: "---"
+        - topics/just-in-time-inventory.qmd        
 format:
   html:
     theme: cosmo
