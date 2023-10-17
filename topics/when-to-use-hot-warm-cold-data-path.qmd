@@ -1,0 +1,14 @@
+---
+title: "When to use Hot / Warm / Cold data path"
+css: ../styles.css
+---
+
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# When to use Hot / Warm / Cold data path
+
+|Path|Requirement|
+|--|--|
+|Hot data path|- When data requirements are known to change frequently.<br/>- When processing or displaying data in real-time.|
+|Warm data path|- When you need to store or display a recent subset of data.<br/>- Used for data that is consumed for small analytical and batch processing.|
+|Cold data path|- When data is rarely used. The data might be stored for compliance or legal reasons.<br/>- Used for data that is consumed for long term analytics and batch processing.|
