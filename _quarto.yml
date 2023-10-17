@@ -32,6 +32,8 @@ website:
         - topics/compare-azure-data-factory-to-azure-synapse-analytics.qmd
         - text: "---"
         - topics/compare-azure-synapse-analytics-to-azure-databricks.qmd
+        - text: "---"
+        - topics/azure-stream-analytics.qmd        
 format:
   html:
     theme: cosmo
