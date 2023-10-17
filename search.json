@@ -21,18 +21,18 @@
     "text": "Source: Data Integration\n\nData-Driven Workflows\nAzure Data Factory is a cloud-based ETL and data integration service that can help you create and schedule data-driven workflows (called pipelines) that ingest data from disaparate data stores.\n\n\n\nData-Driven Workflows\n\n\nYou can use Azure Data Factory to:\n\nOrchestrate data movement.\nTransform data at scale."
   },
   {
-    "objectID": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
-    "href": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
-    "title": "Compare Azure Data Factory to Azure Synapse Analytics",
+    "objectID": "topics/when-to-use-hot-warm-cold-data-path.html",
+    "href": "topics/when-to-use-hot-warm-cold-data-path.html",
+    "title": "When to use Hot / Warm / Cold data path",
     "section": "",
-    "text": "Source: Data Integration\n\nCompare Azure Data Factory to Azure Synapse Analytics\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Factory\nAzure Synapse Analytics\n\n\n\n\nIntegration runtime sharing.\nCan be shared across different data factories.\nNo sharing.\n\n\nSolution template.\nProvided with Azure Data Factory template gallery.\nProvided with Synapse Workspace Knowledge Center.\n\n\nIntegration Runtime cross region support.\nSupport Cross region data flows.\nDoes not support cross region data flows.\n\n\nMonitoring of Spark Jobs for Data Flow.\nNot supported.\nSupported by the Synapse Spark pools."
+    "text": "Source: Data Integration\n\nWhen to use Hot / Warm / Cold data path\n\n\n\n\n\n\n\nPath\nRequirement\n\n\n\n\nHot data path\n- When data requirements are known to change frequently.- When processing or displaying data in real-time.\n\n\nWarm data path\n- When you need to store or display a recent subset of data.- Used for data that is consumed for small analytical and batch processing.\n\n\nCold data path\n- When data is rarely used. The data might be stored for compliance or legal reasons.- Used for data that is consumed for long term analytics and batch processing."
   },
   {
-    "objectID": "topics/azure-stream-analytics.html",
-    "href": "topics/azure-stream-analytics.html",
-    "title": "Azure Stream Analytics",
+    "objectID": "topics/compare-azure-data-lake-to-azure-blob-storage.html",
+    "href": "topics/compare-azure-data-lake-to-azure-blob-storage.html",
+    "title": "Compare Azure Data Lake to Azure Blob Storage",
     "section": "",
-    "text": "Source: Data Integration\n\nAzure Stream Analytics\nAzure Stream Analytics is a real-time analytics and complex event-processing engine that is designed to analyze and process high volumes of fast streaming data from multiple sources simutaneously.\n\n\n\nAzure Stream Analytics\n\n\n\nAnalyze real-time telemetry streams from IoT devices.\nWeb logs/clickstream analytics.\nGeospatial analytics for fleet management and driverless vehicles.\nRemote monitoring and prediuctive maintenance of high value assets.\nReal-time analytics on point-of-sale data for inventory control and anomaly detection."
+    "text": "Source: Data Integration\n\nCompare Azure Data Lake to Azure Blob Storage\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Lake\nAzure Blob Storage\n\n\n\n\nData type\nGood for storing large volumes of text data.\nGood for storing unstructured non-text-based data such as photos, videos, backup etc.\n\n\nNamespace support\nSupports hierarchical namespaces.\nSupports flat namespaces.\n\n\nHadoop compatibility\nHadoop services can use data stored in Data Lake.\nIs not Hadoop compatible.\n\n\nSecurity\nAccess Control Lists (ACLs), shared keys, SAS, and RBAC.\nShared keys, SAS, and RBAC."
   },
   {
     "objectID": "topics/azure-databricks.html",
@@ -42,11 +42,18 @@
     "text": "Source: Data Integration\n\nAzure Databricks\nAzure Databricks is a fully managed, cloud-based Big Data and Machine Learning platform, which empowers developers to accelerate AI and innovation.\n\n\n\nAzure Databricks\n\n\nProvides data science and engineering teams with a single platform for Big Data processing and Machine Learning.\nOffers three environments for developing data intensive applications:\n\nDatabricks SQL.\nDatabricks Data Science & Engineering.\nDatabricks Machine Learning."
   },
   {
-    "objectID": "topics/compare-azure-data-lake-to-azure-blob-storage.html",
-    "href": "topics/compare-azure-data-lake-to-azure-blob-storage.html",
-    "title": "Compare Azure Data Lake to Azure Blob Storage",
+    "objectID": "topics/azure-stream-analytics.html",
+    "href": "topics/azure-stream-analytics.html",
+    "title": "Azure Stream Analytics",
     "section": "",
-    "text": "Source: Data Integration\n\nCompare Azure Data Lake to Azure Blob Storage\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Lake\nAzure Blob Storage\n\n\n\n\nData type\nGood for storing large volumes of text data.\nGood for storing unstructured non-text-based data such as photos, videos, backup etc.\n\n\nNamespace support\nSupports hierarchical namespaces.\nSupports flat namespaces.\n\n\nHadoop compatibility\nHadoop services can use data stored in Data Lake.\nIs not Hadoop compatible.\n\n\nSecurity\nAccess Control Lists (ACLs), shared keys, SAS, and RBAC.\nShared keys, SAS, and RBAC."
+    "text": "Source: Data Integration\n\nAzure Stream Analytics\nAzure Stream Analytics is a real-time analytics and complex event-processing engine that is designed to analyze and process high volumes of fast streaming data from multiple sources simutaneously.\n\n\n\nAzure Stream Analytics\n\n\n\nAnalyze real-time telemetry streams from IoT devices.\nWeb logs/clickstream analytics.\nGeospatial analytics for fleet management and driverless vehicles.\nRemote monitoring and prediuctive maintenance of high value assets.\nReal-time analytics on point-of-sale data for inventory control and anomaly detection."
+  },
+  {
+    "objectID": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
+    "href": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
+    "title": "Compare Azure Data Factory to Azure Synapse Analytics",
+    "section": "",
+    "text": "Source: Data Integration\n\nCompare Azure Data Factory to Azure Synapse Analytics\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Factory\nAzure Synapse Analytics\n\n\n\n\nIntegration runtime sharing.\nCan be shared across different data factories.\nNo sharing.\n\n\nSolution template.\nProvided with Azure Data Factory template gallery.\nProvided with Synapse Workspace Knowledge Center.\n\n\nIntegration Runtime cross region support.\nSupport Cross region data flows.\nDoes not support cross region data flows.\n\n\nMonitoring of Spark Jobs for Data Flow.\nNot supported.\nSupported by the Synapse Spark pools."
   },
   {
     "objectID": "topics/azure-synapse-analytics.html",

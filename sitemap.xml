@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/about.html</loc>
-    <lastmod>2023-10-17T14:13:41.145Z</lastmod>
+    <lastmod>2023-10-17T14:19:46.803Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics.html</loc>
-    <lastmod>2023-10-17T14:13:40.489Z</lastmod>
+    <lastmod>2023-10-17T14:19:46.263Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-synapse-analytics-to-azure-databricks.html</loc>
-    <lastmod>2023-10-17T14:13:39.881Z</lastmod>
+    <lastmod>2023-10-17T14:19:45.703Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/data-driven-workflows.html</loc>
-    <lastmod>2023-10-17T14:13:39.193Z</lastmod>
+    <lastmod>2023-10-17T14:19:45.091Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-factory-to-azure-synapse-analytics.html</loc>
-    <lastmod>2023-10-17T14:13:38.521Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-stream-analytics.html</loc>
-    <lastmod>2023-10-17T14:13:37.789Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-databricks.html</loc>
-    <lastmod>2023-10-17T14:13:36.005Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/when-to-use-hot-warm-cold-data-path.html</loc>
+    <lastmod>2023-10-17T14:19:44.495Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-lake-to-azure-blob-storage.html</loc>
-    <lastmod>2023-10-17T14:13:38.153Z</lastmod>
+    <lastmod>2023-10-17T14:19:43.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-databricks.html</loc>
+    <lastmod>2023-10-17T14:19:42.207Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-stream-analytics.html</loc>
+    <lastmod>2023-10-17T14:19:42.983Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-factory-to-azure-synapse-analytics.html</loc>
+    <lastmod>2023-10-17T14:19:44.179Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-synapse-analytics.html</loc>
-    <lastmod>2023-10-17T14:13:38.869Z</lastmod>
+    <lastmod>2023-10-17T14:19:44.803Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-data-lake-storage.html</loc>
-    <lastmod>2023-10-17T14:13:39.525Z</lastmod>
+    <lastmod>2023-10-17T14:19:45.387Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/SUMMARY.html</loc>
-    <lastmod>2023-10-17T14:13:40.189Z</lastmod>
+    <lastmod>2023-10-17T14:19:45.975Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/index.html</loc>
-    <lastmod>2023-10-17T14:13:40.837Z</lastmod>
+    <lastmod>2023-10-17T14:19:46.539Z</lastmod>
   </url>
 </urlset>
