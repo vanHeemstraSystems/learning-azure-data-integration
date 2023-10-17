@@ -1,0 +1,19 @@
+---
+title: "Azure Synapse Analytics"
+css: ../styles.css
+---
+
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Azure Synapse Analytics
+Azure Synapse Analytics is an integrated analytics platform that brings together data integration, enterprise data warehousing, big data analytics and visualization into a single service. Azure Synapse Analytics is an evolution of Azure SQL Data Warehouse.
+
+![Azure Synatpse Analytics](../images/azure-synapse-analytics.png){.center .image-large}
+
+- Modern data warehousing.
+- Advanced analytics.
+- Data exploration and discovery.
+- Real-time analytics.
+- Data integration.
+- Integrated analytics.
+- Machine Learning.
