@@ -7,7 +7,6 @@ Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningM
 
 # Compare Azure Data Lake to Azure Blob Storage
 
-
 |Criteria|Azure Data Lake|Azure Blob Storage|
 |--|--|--|
 |Data type|Good for storing large volumes of text data.|Good for storing unstructured non-text-based data such as photos, videos, backup etc.|
