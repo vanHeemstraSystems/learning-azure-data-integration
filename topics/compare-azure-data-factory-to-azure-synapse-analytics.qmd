@@ -9,3 +9,7 @@ Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningM
 
 |Criteria|Azure Data Factory|Azure Synapse Analytics|
 |--|--|--|
+|Integration runtime sharing.|Can be shared across different data factories.|No sharing.|
+|Solution template.|Provided with Azure Data Factory template gallery.|Provided with Synapse Workspace Knowledge Center.|
+|Integration Runtime cross region support.|Support Cross region data flows.|Does not support cross region data flows.|
+|Monitoring of Spark Jobs for Data Flow.|Not supported.|Supported by the Synapse Spark pools.|
