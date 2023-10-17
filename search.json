@@ -35,6 +35,13 @@
     "text": "Source: Data Integration\n\nAzure Databricks\nAzure Databricks is a fully managed, cloud-based Big Data and Machine Learning platform, which empowers developers to accelerate AI and innovation.\n\n\n\nAzure Databricks\n\n\nPrivides data science and engineering teams with a single platform for Big Data processing and Machine Learning.\nOffers three environments for developing data intensive applications:\n\nDatabricks SQL.\nDatabricks Data Science & Engineering.\nDatabricks Machine Learning."
   },
   {
+    "objectID": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
+    "href": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
+    "title": "Compare Azure Data Factory to Azure Synapse Analytics",
+    "section": "",
+    "text": "Source: Data Integration\n\nCompare Azure Data Factory to Azure Synapse Analytics\n\n\n\nCriteria\nAzure Data Factory\nAzure Synapse Analytics"
+  },
+  {
     "objectID": "topics/data-driven-workflows.html",
     "href": "topics/data-driven-workflows.html",
     "title": "Data-Driven Workflows",
