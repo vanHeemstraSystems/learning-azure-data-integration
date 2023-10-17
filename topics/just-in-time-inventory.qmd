@@ -1,1 +1,10 @@
+---
+title: "Just-in-Time Inventory"
+css: ../styles.css
+---
 
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Just-in-Time Inventory
+
+![Just-in-Time Inventory](../images/just-in-time-inventory.png){.center .image-large}
