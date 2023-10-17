@@ -17,3 +17,15 @@ Azure Synapse Analytics is an integrated analytics platform that brings together
 - Data integration.
 - Integrated analytics.
 - Machine Learning.
+
+# Components of Azure Synapse Analytics
+
+![Azure Synatpse Analytics Components](../images/azure-synapse-analytics-components.png){.center .image-large}
+
+Components:
+
+- Synapse SQL pool.
+- Synapse Spark pool.
+- Synapse Pipelines.
+- Synapse Link.
+- Synapse Studio.
