@@ -7,18 +7,18 @@
     "text": "About this site"
   },
   {
+    "objectID": "topics/azure-data-lake-storage.html",
+    "href": "topics/azure-data-lake-storage.html",
+    "title": "Azure Data Lake Storage",
+    "section": "",
+    "text": "Source: Data Integration\n\nAzure Data Lake Storage\nAzure Data Lake Storage is a comprehensive, scalable, and cost-effective data lake solution for big data analytics built into Azure.\n\n\n\nAzure Data Lake Storage\n\n\nUse Azure Data Lake when you need:\n\na data repository on the cloud for managing large volumes of data.\nto manage a diverse collection of data types such as JSON files, CSV, log files or other diverse formats.\nreal-time data ingestion and storage."
+  },
+  {
     "objectID": "topics/data-driven-workflows.html",
     "href": "topics/data-driven-workflows.html",
     "title": "Data-Driven Workflows",
     "section": "",
     "text": "Source: Data Integration\n\nData-Driven Workflows\nAzure Data Factory is a cloud-based ETL and data integration service that can help you create and schedule data-driven workflows (called pipelines) that ingest data from disaparate data stores.\n\n\n\nData-Driven Workflows\n\n\nYou can use Azure Data Factory to:\n\nOrchestrate data movement.\nTransform data at scale."
-  },
-  {
-    "objectID": "topics/azure-data-lake.html",
-    "href": "topics/azure-data-lake.html",
-    "title": "Azure Data Lake",
-    "section": "",
-    "text": "Source: Data Integration\n\nAzure Data Lake\nAzure Data Lake Storage is a comprehensive, scalable, and cost-effective data lake solution for big data analytics built into Azure.\n\n\n\nAzure Data Lake\n\n\nUse Azure Data Lake when you need:\n\na data repository on the cloud for managing large volumes of data.\nto manage a diverse collection of data types such as JSON files, CSV, log files or other diverse formats.\nreal-time data ingestion and storage."
   },
   {
     "objectID": "SUMMARY.html",
