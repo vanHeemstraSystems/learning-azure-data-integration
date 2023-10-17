@@ -1,1 +1,19 @@
+---
+title: "Azure Databricks"
+css: ../styles.css
+---
 
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Azure Databricks
+Azure Databricks is a fully managed, cloud-based Big Data and Machine Learning platform, which empowers developers to accelerate AI and innovation.
+
+![Azure Databricks](../images/azure-databricks.png){.center .image-large}
+
+Privides data science and engineering teams with a single platform for Big Data processing and Machine Learning.
+
+Offers three environments for developing data intensive applications:
+
+- Databricks SQL.
+- Databricks Data Science & Engineering.
+- Databricks Machine Learning.
