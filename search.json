@@ -9,9 +9,9 @@
   {
     "objectID": "topics/data-driven-workflows.html",
     "href": "topics/data-driven-workflows.html",
-    "title": "Data Driven Workflows",
+    "title": "Data-Driven Workflows",
     "section": "",
-    "text": "Source: Data Integration\n\nData Driven Workflows\nText.\n\n\n\nData Driven Workflows\n\n\n\nText.\nText."
+    "text": "Source: Data Integration\n\nData-Driven Workflows\nAzure Data Factory is a cloud-based ETL and data integration service that can help you create and schedule data-driven workflows (called pipelines) that ingest data from disaparate data stores.\n\n\n\nData-Driven Workflows\n\n\nYou can use Azure Data Factory to:\n\nOrchestrate data movement.\nTransform data at scale."
   },
   {
     "objectID": "SUMMARY.html",
