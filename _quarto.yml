@@ -21,7 +21,9 @@ website:
         - text: "---"
         - topics/data-driven-workflows.qmd
         - text: "---"
-        - topics/azure-data-lake-storage.qmd        
+        - topics/azure-data-lake-storage.qmd
+        - text: "---"
+        - topics/compare-azure-data-lake-to-azure-blob-storage.qmd        
 format:
   html:
     theme: cosmo
