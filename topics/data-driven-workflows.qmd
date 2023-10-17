@@ -1,3 +1,14 @@
 ---
 title: "Data Driven Workflows"
+css: ../styles.css
 ---
+
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Data Driven Workflows
+Text.
+
+![Data Driven Workflows](../images/data-driven-workflows.png){.center .image-large}
+
+- Text.
+- Text.
