@@ -23,7 +23,9 @@ website:
         - text: "---"
         - topics/azure-data-lake-storage.qmd
         - text: "---"
-        - topics/compare-azure-data-lake-to-azure-blob-storage.qmd        
+        - topics/compare-azure-data-lake-to-azure-blob-storage.qmd
+        - text: "---"
+        - topics/azure-databricks.qmd        
 format:
   html:
     theme: cosmo
