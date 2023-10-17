@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Learning Azure Data Integration – compare-azure-data-lake-to-azure-blob-storage</title>
+<title>Learning Azure Data Integration - Compare Azure Data Lake to Azure Blob Storage</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -104,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Compare Azure Data Lake to Azure Blob Storage</li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -143,15 +143,76 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#compare-azure-data-lake-to-azure-blob-storage" id="toc-compare-azure-data-lake-to-azure-blob-storage" class="nav-link active" data-scroll-target="#compare-azure-data-lake-to-azure-blob-storage">Compare Azure Data Lake to Azure Blob Storage</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Compare Azure Data Lake to Azure Blob Storage</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>Source: <a href="https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/">Data Integration</a></p>
+<section id="compare-azure-data-lake-to-azure-blob-storage" class="level1">
+<h1>Compare Azure Data Lake to Azure Blob Storage</h1>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criteria</th>
+<th>Azure Data Lake</th>
+<th>Azure Blob Storage</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Data type</td>
+<td>Good for storing large volumes of text data.</td>
+<td>Good for storing unstructured non-text-based data such as photos, videos, backup etc.</td>
+</tr>
+<tr class="even">
+<td>Namespace support</td>
+<td>Supports hierarchical namespaces.</td>
+<td>Supports flat namespaces.</td>
+</tr>
+<tr class="odd">
+<td>Hadoop compatibility</td>
+<td>Hadoop services can use data stored in Data Lake.</td>
+<td>Is not Hadoop compatible.</td>
+</tr>
+<tr class="even">
+<td>Security</td>
+<td>Access Control Lists (ACLs), shared keys, SAS, and RBAC.</td>
+<td>Shared keys, SAS, and RBAC.</td>
+</tr>
+</tbody>
+</table>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
