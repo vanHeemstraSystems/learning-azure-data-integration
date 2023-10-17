@@ -33,7 +33,9 @@ website:
         - text: "---"
         - topics/compare-azure-synapse-analytics-to-azure-databricks.qmd
         - text: "---"
-        - topics/azure-stream-analytics.qmd        
+        - topics/azure-stream-analytics.qmd
+        - text: "---"
+        - topics/when-to-use-hot-warm-cold-data-path.qmd
 format:
   html:
     theme: cosmo
