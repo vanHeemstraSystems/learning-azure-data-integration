@@ -39,7 +39,7 @@
     "href": "topics/azure-databricks.html",
     "title": "Azure Databricks",
     "section": "",
-    "text": "Source: Data Integration\n\nAzure Databricks\nAzure Databricks is a fully managed, cloud-based Big Data and Machine Learning platform, which empowers developers to accelerate AI and innovation.\n\n\n\nAzure Databricks\n\n\nPrivides data science and engineering teams with a single platform for Big Data processing and Machine Learning.\nOffers three environments for developing data intensive applications:\n\nDatabricks SQL.\nDatabricks Data Science & Engineering.\nDatabricks Machine Learning."
+    "text": "Source: Data Integration\n\nAzure Databricks\nAzure Databricks is a fully managed, cloud-based Big Data and Machine Learning platform, which empowers developers to accelerate AI and innovation.\n\n\n\nAzure Databricks\n\n\nProvides data science and engineering teams with a single platform for Big Data processing and Machine Learning.\nOffers three environments for developing data intensive applications:\n\nDatabricks SQL.\nDatabricks Data Science & Engineering.\nDatabricks Machine Learning."
   },
   {
     "objectID": "topics/compare-azure-data-lake-to-azure-blob-storage.html",
