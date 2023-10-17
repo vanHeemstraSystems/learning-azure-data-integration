@@ -18,7 +18,7 @@
     "href": "topics/azure-synapse-analytics.html",
     "title": "Azure Synapse Analytics",
     "section": "",
-    "text": "Source: Data Integration\n\nAzure Synapse Analytics\nAzure Synapse Analytics is an integrated analytics platform that brings together data integration, enterprise data warehousing, big data analytics and visualization into a single service. Azure Synapse Analytics is an evolution of Azure SQL Data Warehouse.\n\n\n\nAzure Synatpse Analytics\n\n\n\nModern data warehousing.\nAdvanced analytics.\nData exploration and discovery.\nReal-time analytics.\nData integration.\nIntegrated analytics.\nMachine Learning."
+    "text": "Source: Data Integration\n\nAzure Synapse Analytics\nAzure Synapse Analytics is an integrated analytics platform that brings together data integration, enterprise data warehousing, big data analytics and visualization into a single service. Azure Synapse Analytics is an evolution of Azure SQL Data Warehouse.\n\n\n\nAzure Synatpse Analytics\n\n\n\nModern data warehousing.\nAdvanced analytics.\nData exploration and discovery.\nReal-time analytics.\nData integration.\nIntegrated analytics.\nMachine Learning.\n\n\n\nComponents of Azure Synapse Analytics\n\n\n\nAzure Synatpse Analytics Components\n\n\nComponents:\n\nSynapse SQL pool.\nSynapse Spark pool.\nSynapse Pipelines.\nSynapse Link.\nSynapse Studio."
   },
   {
     "objectID": "topics/azure-databricks.html",
