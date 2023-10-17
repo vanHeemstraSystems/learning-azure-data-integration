@@ -1,14 +1,14 @@
 ---
-title: "Azure Data Lake"
+title: "Azure Data Lake Storage"
 css: ../styles.css
 ---
 
 Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
 
-# Azure Data Lake
+# Azure Data Lake Storage
 Azure Data Lake Storage is a comprehensive, scalable, and cost-effective data lake solution for big data analytics built into Azure.
 
-![Azure Data Lake](../images/azure-data-lake.png){.center .image-large}
+![Azure Data Lake Storage](../images/azure-data-lake-storage.png){.center .image-large}
 
 Use Azure Data Lake when you need:
 
