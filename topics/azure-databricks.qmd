@@ -10,7 +10,7 @@ Azure Databricks is a fully managed, cloud-based Big Data and Machine Learning p
 
 ![Azure Databricks](../images/azure-databricks.png){.center .image-large}
 
-Privides data science and engineering teams with a single platform for Big Data processing and Machine Learning.
+Provides data science and engineering teams with a single platform for Big Data processing and Machine Learning.
 
 Offers three environments for developing data intensive applications:
 
