@@ -1,1 +1,17 @@
+---
+title: "Compare Azure Data Lake to Azure Blob Storage"
+css: ../styles.css
+---
+
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Compare Azure Data Lake to Azure Blob Storage
+
+
+|Criteria|Azure Data Lake|Azure Blob Storage|
+|--|--|--|
+|Data type|Good for storing large volumes of text data.|Good for storing unstructured non-text-based data such as photos, videos, backup etc.|
+|Namespace support|Supports hierarchical namespaces.|Supports flat namespaces.|
+|Hadoop compatibility|Hadoop services can use data stored in Data Lake.|Is not Hadoop compatible.|
+|Security|Access Control Lists (ACLs), shared keys, SAS, and RBAC.|Shared keys, SAS, and RBAC.|
 
