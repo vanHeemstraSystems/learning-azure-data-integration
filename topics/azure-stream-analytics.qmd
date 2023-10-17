@@ -1,1 +1,17 @@
+---
+title: "Azure Stream Analytics"
+css: ../styles.css
+---
 
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Azure Stream Analytics
+Azure Stream Analytics is a real-time analytics and complex event-processing engine that is designed to analyze and process high volumes of fast streaming data from multiple sources simutaneously.
+
+![Azure Stream Analytics](../images/azure-stream-analytics.png){.center .image-large}
+
+- Analyze real-time telemetry streams from IoT devices.
+- Web logs/clickstream analytics.
+- Geospatial analytics for fleet management and driverless vehicles.
+- Remote monitoring and prediuctive maintenance of high value assets.
+- Real-time analytics on point-of-sale data for inventory control and anomaly detection.
