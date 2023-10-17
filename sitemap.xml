@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/about.html</loc>
-    <lastmod>2023-10-17T12:53:44.762Z</lastmod>
+    <lastmod>2023-10-17T13:00:14.076Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics.html</loc>
-    <lastmod>2023-10-17T12:53:44.130Z</lastmod>
+    <lastmod>2023-10-17T13:00:13.508Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-data-lake-storage.html</loc>
-    <lastmod>2023-10-17T12:53:43.506Z</lastmod>
+    <lastmod>2023-10-17T13:00:12.908Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-lake-to-azure-blob-storage.html</loc>
-    <lastmod>2023-10-17T12:53:42.802Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-synapse-analytics.html</loc>
+    <lastmod>2023-10-17T13:00:12.276Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-databricks.html</loc>
-    <lastmod>2023-10-17T12:53:42.070Z</lastmod>
+    <lastmod>2023-10-17T13:00:10.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-lake-to-azure-blob-storage.html</loc>
+    <lastmod>2023-10-17T13:00:11.328Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/data-driven-workflows.html</loc>
-    <lastmod>2023-10-17T12:53:43.154Z</lastmod>
+    <lastmod>2023-10-17T13:00:12.584Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/SUMMARY.html</loc>
-    <lastmod>2023-10-17T12:53:43.826Z</lastmod>
+    <lastmod>2023-10-17T13:00:13.224Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/index.html</loc>
-    <lastmod>2023-10-17T12:53:44.454Z</lastmod>
+    <lastmod>2023-10-17T13:00:13.796Z</lastmod>
   </url>
 </urlset>
