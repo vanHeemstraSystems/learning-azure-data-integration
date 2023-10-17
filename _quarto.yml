@@ -29,7 +29,9 @@ website:
         - text: "---"
         - topics/azure-synapse-analytics.qmd
         - text: "---"
-        - topics/compare-azure-data-factory-to-azure-synapse-analytics.qmd        
+        - topics/compare-azure-data-factory-to-azure-synapse-analytics.qmd
+        - text: "---"
+        - topics/compare-azure-synapse-analytics-to-azure-databricks.qmd
 format:
   html:
     theme: cosmo
