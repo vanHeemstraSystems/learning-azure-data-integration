@@ -21,6 +21,13 @@
     "text": "Source: Data Integration\n\nCompare Azure Data Lake to Azure Blob Storage\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Lake\nAzure Blob Storage\n\n\n\n\nData type\nGood for storing large volumes of text data.\nGood for storing unstructured non-text-based data such as photos, videos, backup etc.\n\n\nNamespace support\nSupports hierarchical namespaces.\nSupports flat namespaces.\n\n\nHadoop compatibility\nHadoop services can use data stored in Data Lake.\nIs not Hadoop compatible.\n\n\nSecurity\nAccess Control Lists (ACLs), shared keys, SAS, and RBAC.\nShared keys, SAS, and RBAC."
   },
   {
+    "objectID": "topics/azure-databricks.html",
+    "href": "topics/azure-databricks.html",
+    "title": "Azure Databricks",
+    "section": "",
+    "text": "Source: Data Integration\n\nAzure Databricks\nAzure Databricks is a fully managed, cloud-based Big Data and Machine Learning platform, which empowers developers to accelerate AI and innovation.\n\n\n\nAzure Databricks\n\n\nPrivides data science and engineering teams with a single platform for Big Data processing and Machine Learning.\nOffers three environments for developing data intensive applications:\n\nDatabricks SQL.\nDatabricks Data Science & Engineering.\nDatabricks Machine Learning."
+  },
+  {
     "objectID": "topics/data-driven-workflows.html",
     "href": "topics/data-driven-workflows.html",
     "title": "Data-Driven Workflows",
