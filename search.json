@@ -39,7 +39,7 @@
     "href": "topics/compare-azure-data-factory-to-azure-synapse-analytics.html",
     "title": "Compare Azure Data Factory to Azure Synapse Analytics",
     "section": "",
-    "text": "Source: Data Integration\n\nCompare Azure Data Factory to Azure Synapse Analytics\n\n\n\nCriteria\nAzure Data Factory\nAzure Synapse Analytics"
+    "text": "Source: Data Integration\n\nCompare Azure Data Factory to Azure Synapse Analytics\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Factory\nAzure Synapse Analytics\n\n\n\n\nIntegration runtime sharing.\nCan be shared across different data factories.\nNo sharing.\n\n\nSolution template.\nProvided with Azure Data Factory template gallery.\nProvided with Synapse Workspace Knowledge Center.\n\n\nIntegration Runtime cross region support.\nSupport Cross region data flows.\nDoes not support cross region data flows.\n\n\nMonitoring of Spark Jobs for Data Flow.\nNot supported.\nSupported by the Synapse Spark pools."
   },
   {
     "objectID": "topics/data-driven-workflows.html",

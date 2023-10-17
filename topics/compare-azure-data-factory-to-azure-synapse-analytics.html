@@ -195,7 +195,12 @@ ul.task-list li input[type="checkbox"] {
 <p>Source: <a href="https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/">Data Integration</a></p>
 <section id="compare-azure-data-factory-to-azure-synapse-analytics" class="level1">
 <h1>Compare Azure Data Factory to Azure Synapse Analytics</h1>
-<table>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Criteria</th>
@@ -204,6 +209,26 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td>Integration runtime sharing.</td>
+<td>Can be shared across different data factories.</td>
+<td>No sharing.</td>
+</tr>
+<tr class="even">
+<td>Solution template.</td>
+<td>Provided with Azure Data Factory template gallery.</td>
+<td>Provided with Synapse Workspace Knowledge Center.</td>
+</tr>
+<tr class="odd">
+<td>Integration Runtime cross region support.</td>
+<td>Support Cross region data flows.</td>
+<td>Does not support cross region data flows.</td>
+</tr>
+<tr class="even">
+<td>Monitoring of Spark Jobs for Data Flow.</td>
+<td>Not supported.</td>
+<td>Supported by the Synapse Spark pools.</td>
+</tr>
 </tbody>
 </table>
 
