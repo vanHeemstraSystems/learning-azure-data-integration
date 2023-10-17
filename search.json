@@ -28,6 +28,13 @@
     "text": "Source: Data Integration\n\nCompare Azure Data Factory to Azure Synapse Analytics\n\n\n\n\n\n\n\n\nCriteria\nAzure Data Factory\nAzure Synapse Analytics\n\n\n\n\nIntegration runtime sharing.\nCan be shared across different data factories.\nNo sharing.\n\n\nSolution template.\nProvided with Azure Data Factory template gallery.\nProvided with Synapse Workspace Knowledge Center.\n\n\nIntegration Runtime cross region support.\nSupport Cross region data flows.\nDoes not support cross region data flows.\n\n\nMonitoring of Spark Jobs for Data Flow.\nNot supported.\nSupported by the Synapse Spark pools."
   },
   {
+    "objectID": "topics/azure-stream-analytics.html",
+    "href": "topics/azure-stream-analytics.html",
+    "title": "Azure Stream Analytics",
+    "section": "",
+    "text": "Source: Data Integration\n\nAzure Stream Analytics\nAzure Stream Analytics is a real-time analytics and complex event-processing engine that is designed to analyze and process high volumes of fast streaming data from multiple sources simutaneously.\n\n\n\nAzure Stream Analytics\n\n\n\nAnalyze real-time telemetry streams from IoT devices.\nWeb logs/clickstream analytics.\nGeospatial analytics for fleet management and driverless vehicles.\nRemote monitoring and prediuctive maintenance of high value assets.\nReal-time analytics on point-of-sale data for inventory control and anomaly detection."
+  },
+  {
     "objectID": "topics/azure-databricks.html",
     "href": "topics/azure-databricks.html",
     "title": "Azure Databricks",
