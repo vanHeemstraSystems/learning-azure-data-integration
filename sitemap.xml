@@ -2,54 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/about.html</loc>
-    <lastmod>2023-10-17T14:20:33.866Z</lastmod>
+    <lastmod>2023-10-17T14:22:07.935Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics.html</loc>
-    <lastmod>2023-10-17T14:20:33.118Z</lastmod>
+    <lastmod>2023-10-17T14:22:07.339Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-synapse-analytics-to-azure-databricks.html</loc>
-    <lastmod>2023-10-17T14:20:32.406Z</lastmod>
+    <lastmod>2023-10-17T14:22:06.751Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/data-driven-workflows.html</loc>
-    <lastmod>2023-10-17T14:20:31.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/when-to-use-hot-warm-cold-data-path.html</loc>
-    <lastmod>2023-10-17T14:20:30.782Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-lake-to-azure-blob-storage.html</loc>
-    <lastmod>2023-10-17T14:20:29.930Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-databricks.html</loc>
-    <lastmod>2023-10-17T14:20:28.630Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-stream-analytics.html</loc>
-    <lastmod>2023-10-17T14:20:29.486Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-factory-to-azure-synapse-analytics.html</loc>
-    <lastmod>2023-10-17T14:20:30.362Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/just-in-time-inventory.html</loc>
+    <lastmod>2023-10-17T14:22:06.095Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-synapse-analytics.html</loc>
-    <lastmod>2023-10-17T14:20:31.194Z</lastmod>
+    <lastmod>2023-10-17T14:22:05.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-factory-to-azure-synapse-analytics.html</loc>
+    <lastmod>2023-10-17T14:22:04.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-stream-analytics.html</loc>
+    <lastmod>2023-10-17T14:22:04.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-databricks.html</loc>
+    <lastmod>2023-10-17T14:22:03.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/compare-azure-data-lake-to-azure-blob-storage.html</loc>
+    <lastmod>2023-10-17T14:22:04.527Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/when-to-use-hot-warm-cold-data-path.html</loc>
+    <lastmod>2023-10-17T14:22:05.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/data-driven-workflows.html</loc>
+    <lastmod>2023-10-17T14:22:05.807Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/topics/azure-data-lake-storage.html</loc>
-    <lastmod>2023-10-17T14:20:31.978Z</lastmod>
+    <lastmod>2023-10-17T14:22:06.411Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/SUMMARY.html</loc>
-    <lastmod>2023-10-17T14:20:32.758Z</lastmod>
+    <lastmod>2023-10-17T14:22:07.051Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-data-integration/index.html</loc>
-    <lastmod>2023-10-17T14:20:33.486Z</lastmod>
+    <lastmod>2023-10-17T14:22:07.619Z</lastmod>
   </url>
 </urlset>
