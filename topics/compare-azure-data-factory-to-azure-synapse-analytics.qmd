@@ -1,1 +1,11 @@
+---
+title: "Compare Azure Data Factory to Azure Synapse Analytics"
+css: ../styles.css
+---
 
+Source: [Data Integration](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)
+
+# Compare Azure Data Factory to Azure Synapse Analytics
+
+|Criteria|Azure Data Factory|Azure Synapse Analytics|
+|--|--|--|
