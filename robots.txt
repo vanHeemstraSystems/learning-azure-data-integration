@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-azure-data-integration/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-azure-data-integration/sitemap.xml
